@@ -54,3 +54,6 @@ Maven
 ▶️ Cómo ejecutar
 --- Comando en termianl dentro del proyecto:  mvn spring-boot:run
 
+### 📸 Captura de pantalla opcional
+```markdown
+![Interfaz de usuarios](https://ejemplo.com/ruta/a/tu/imagen.png)
