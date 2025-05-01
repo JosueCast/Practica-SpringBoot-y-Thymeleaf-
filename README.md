@@ -36,7 +36,7 @@ user-list-springboot/
 ├── pom.xml                                 # 📦 Dependencias Maven
 └── README.md                               # 📌 Este archivo
 
-```
+
 📌 Estructura detallada
 Carpeta/Archivo	Propósito
 src/main/java/.../Controller	Contiene los controladores (ej: UserController.java)
