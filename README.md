@@ -2,6 +2,9 @@
 
 Este proyecto es una aplicación web desarrollada con **Spring Boot** y **Thymeleaf** que muestra una lista de usuarios (nombre, apellido y correo electrónico) en una tabla HTML.
 
+<div align="center">
+  <img src="https://github.com/JosueCast/Practica-SpringBoot-y-Thymeleaf-/raw/main/Anotaci%C3%B3n%202025-04-30%20180840.png" width="90%" heigth="80%" alt="Captura de la interfaz"/>
+</div>
 ---
 
 ## 🚀 Tecnologías utilizadas
@@ -57,6 +60,4 @@ Maven
 ### 📸 Captura de pantalla opcional
 ```markdown
 ```
-<div align="center">
-  <img src="https://github.com/JosueCast/Practica-SpringBoot-y-Thymeleaf-/raw/main/Anotaci%C3%B3n%202025-04-30%20180840.png" width="70%" alt="Captura de la interfaz"/>
-</div>
+
