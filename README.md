@@ -56,4 +56,4 @@ Maven
 
 ### 📸 Captura de pantalla opcional
 ```markdown
-![Interfaz de usuarios](https://ejemplo.com/ruta/a/tu/imagen.png)
+![Interfaz de usuarios](https://github.com/JosueCast/Practica-SpringBoot-y-Thymeleaf-/Anotación 2025-04-30 180840.png)
