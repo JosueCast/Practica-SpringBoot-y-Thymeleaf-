@@ -14,28 +14,24 @@ Este proyecto es una aplicación web desarrollada con **Spring Boot** y **Thymel
 ---
 
 ## 📂 Estructura del proyecto
-Spirit-Boot-main/
-└── Spirit-Boot-main/
-    └── user-list-springboot/
-        ├── src/
-        │   ├── main/
-        │   │   ├── java/
-        │   │   │   └── com/actividadas13/springboot/web/user_list_springboot/
-        │   │   │       ├── Controller/                  # Controladores (Manejan peticiones HTTP)
-        │   │   │       ├── Modelos/                     # Entidades/Modelos de datos
-        │   │   │       ├── Service/                     # Lógica de negocio
-        │   │   │       └── UserListSpringbootApplication.java  # Clase principal de Spring Boot
-        │   │   └── resources/
-        │   │       ├── static/Css/                      # Archivos CSS estáticos
-        │   │       ├── templates/                       # Plantillas Thymeleaf (HTML)
-        │   │       └── application.properties           # Configuración de la aplicación
-        │   └── test/
-        │       └── java/
-        │           └── com/actividadas13/springboot/web/user_list_springboot/
-        │               └── UserListSpringbootApplicationTests.java  # Pruebas unitarias
-        ├── target/                                      # Archivos compilados (generado automáticamente)
-        │   ├── classes/                                 # Clases compiladas
-        │   └── test-classes/                            # Clases de prueba compiladas
-        ├── mvnw                                         # Script Maven para Unix/Linux
-        ├── mvnw.cmd                                     # Script Maven para Windows
-        └── pom.xml                                      # Configuración de dependencias de Maven
+# 🚀 user-list-springboot - Aplicación Spring Boot con Thymeleaf
+
+Estructura del proyecto:
+
+```bash
+user-list-springboot/
+├── src/
+│   ├── main/
+│   │   ├── java/com/actividadas13/springboot/web/user_list_springboot/
+│   │   │   ├── Controller/                  # 🎮 Controladores (Manejan endpoints)
+│   │   │   ├── Modelos/                     # 🏗️  Entidades de datos
+│   │   │   ├── Service/                     # ⚙️ Lógica de negocio
+│   │   │   └── UserListSpringbootApplication.java  # 🚀 Clase principal
+│   │   └── resources/
+│   │       ├── static/css/                  # 🎨 Estilos CSS
+│   │       ├── templates/                   # 📄 Plantillas Thymeleaf
+│   │       └── application.properties       # ⚙️ Configuración
+│   └── test/                               # 🧪 Pruebas unitarias
+├── target/                                 # 🏗️  Artefactos generados
+├── pom.xml                                 # 📦 Dependencias Maven
+└── README.md                               # 📌 Este archivo
