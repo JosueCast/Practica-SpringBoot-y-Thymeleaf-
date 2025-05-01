@@ -35,3 +35,22 @@ user-list-springboot/
 ├── target/                                 # 🏗️  Artefactos generados
 ├── pom.xml                                 # 📦 Dependencias Maven
 └── README.md                               # 📌 Este archivo
+
+```
+📌 Estructura detallada
+Carpeta/Archivo	Propósito
+src/main/java/.../Controller	Contiene los controladores (ej: UserController.java)
+src/main/java/.../Modelos	Modelos de datos (ej: User.java)
+src/main/java/.../Service	Servicios con lógica de negocio
+src/main/resources/static	Recursos estáticos (CSS/JS/imágenes)
+src/main/resources/templates	Plantillas Thymeleaf (HTML dinámico)
+🔧 Tecnologías utilizadas
+Spring Boot
+
+Thymeleaf
+
+Maven
+
+▶️ Cómo ejecutar
+--- Comando en termianl dentro del proyecto:  mvn spring-boot:run
+
